@@ -1,10 +1,8 @@
-# HEHEHE
+# Магазин по доставке еды
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Создано с помощью [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
+## Команды
 
 ### `yarn start`
 
